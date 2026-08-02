@@ -6,7 +6,7 @@
 //gifts fcfs
 //game stops after player reaching 30th box
 //exceeded they remain ideal
-//if noone wins print tie
+//if none wins print tie
 
 //output: player name | current position | remaining count to win the game | gifts | sliders | ladders
 //players lost, ... , ... 
